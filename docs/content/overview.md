@@ -1,6 +1,7 @@
 ## Short Description
 
-CPN ...
+cmdty Pricing Network by cmdty is the leading online store of global physical pricing. Through our contributors, we work to make the global Ag, Energy, Food, and Freight markets more transparent by providing assorted data to our users.
+
 ## Roadmap
 CPM...
 
@@ -8,12 +9,18 @@ CPM...
 
 CPN Contributors datasets...
 
-|Dataset                 | Source                            | Data Coverage    | Frequency | Historical Start  | Historical End | Format | range |
-| :---------------------: | :----------: | :----------: | :-----------: |:-----------: |:-----------: |:-----------:|:-----------:
-| NDVI | Sentinel-2 level-2A | The United States |Every 5 days| 2018-04-01  | 2020-10-15  | Raster, Geotiff | -1~1 |
-| EVI | Sentinel-2 level-2A | The United States |Every 5 days| 2018-04-01  | 2020-10-15  | Raster, Geotiff | -1~1 |
-| NDWI | Sentinel-2 level-2A | The United States |Every 5 days| 2018-04-01  | 2020-10-15  | Raster, Geotiff | -1~1 |
-| Crop Classification| Barchart | The United States | Anuually | 2020  | 2020  | Raster, Geotiff | 0~255 |
+|Dataset                 | Source                            | Data Coverage    | 
+| :---------------------: | :----------: | :----------: | 
+| Mercaris Organic & non-GMO Grain | Mercaris | US Organic & non-GMO Grain Prices and Imports | 
+| BulkLoads Freight Prices | BulkLoads | The United States | 
+| OMJ Refined Products Prices | Oil Market Journal | European Refined Products Barge & FOB Prices |
+| Commodity3 Global Commodity Port Prices | Commodity3 | Global Port Prices for Commodities and Bunkers |
+| PanXchange Energy Pricess | PanXchange | US Hemp and Frac Sand Prices |
+| SCB Alternative Energy Prices | SCB | US and European Biofuel and Ethanol Prices |
+| EOX Live Energy Forward Prices | EOX Live | Global Energy Forward Prices  |
+| Urner Barry Foood Prices | Urner Barry | Global Benchmark Prices for Food Commodities |
+| Mintec Commodity Prices | Mintec | Global Benchmark Prices for Commodities |
+| ClipperData Grain Transportation Data | ClipperData | Global Grains Water Flow Data |
 
 
 
