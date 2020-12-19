@@ -1,5 +1,5 @@
 ## FAQs
-
+Below are the FAQs compiled for the available datasets:
 * [Mercaris Organic & non-GMO Grain](/content/Mercaris)
 * [BulkLoads Freight Prices](/content/Bulkloads)
 * [OMJ Refined Products Prices](/content/OMJ)
