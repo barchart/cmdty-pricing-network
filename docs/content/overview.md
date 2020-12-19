@@ -7,8 +7,6 @@ CPM...
 
 ## What Datasets Are Included?
 
-CPN Contributors datasets...
-
 |Dataset                 | Source                            | Data Coverage    | 
 | :---------------------: | :----------: | :----------: | 
 | Mercaris Organic & non-GMO Grain | Mercaris | US Organic & non-GMO Grain Prices and Imports | 
@@ -38,6 +36,6 @@ Something not right? Need assistance? Don’t hesitate to submit a ticket to our
 
 ## FAQs
 
-We have compiled FAQs around relevant datasets here(Link to FAQ).
+We have compiled FAQs around relevant datasets [here](/docs/content/faq.md).
 
 
