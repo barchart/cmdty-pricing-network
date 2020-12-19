@@ -8,5 +8,5 @@ Below are the FAQs compiled for the available datasets:
 * [PanXchange Energy Prices](/content/Panxchange)
 * [EOX Live Energy Forward Prices](/content/EOX)
 * [Urner Barry Foood Prices](/content/UrnerBarry)
-* [Mintec Commodity Prices](/Mintec.md)
+* [Mintec Commodity Prices](/content/Mintec.md)
 * [ClipperData Grain Transportation Data](/content/ClipperData)
