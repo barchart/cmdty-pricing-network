@@ -5,7 +5,7 @@ Below are the FAQs compiled for available datasets:
 * [OMJ Refined Products Prices](/docs/content/OMJ.md)
 * [SCB Alternative Energy Prices](/content/SCB)
 * [Commodity3 Global Commodity Port Prices](/content/Commodity3)
-* [PanXchange Energy Prices](/content/Panxchange)
+* [PanXchange Energy Prices](/docs/content/Panxchange.md)
 * [EOX Live Energy Forward Prices](/content/EOX)
 * [Urner Barry Foood Prices](/content/UrnerBarry)
 * [Mintec Commodity Prices](/docs/content/Mintec.md)
