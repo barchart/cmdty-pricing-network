@@ -2,5 +2,5 @@
 
 > cmdty Pricing Network
 
-[Product Overview](/docs/content/overview)
-[Quick Start](/docs/content/quick_start)
+[Product Overview](/content/overview)
+[Quick Start](/content/quick_start)
