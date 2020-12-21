@@ -1,5 +1,5 @@
-* [Overview](/content/overview)
-* [Quick Start](/content/quick_start)
-* [FAQ](/content/faq)
-* [Release Notes](/content/release_notes)
+* [Overview](/docs/content/overview)
+* [Quick Start](/docs/content/quick_start)
+* [FAQ](/docs/content/faq)
+* [Release Notes](/docs/content/release_notes)
 
