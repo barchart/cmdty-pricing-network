@@ -3,4 +3,4 @@
 > cmdty Pricing Network
 
 [Product Overview](/content/overview)
-[Quick Start](/content/quick_start)
+
