@@ -10,7 +10,6 @@ CPM...
 |Dataset                 | Source                            | Data Coverage    | 
 | :---------------------: | :----------: | :----------: | 
 | Mercaris Organic & non-GMO Grain | Mercaris | US Organic & non-GMO Grain Prices and Imports | 
-| BulkLoads Freight Prices | BulkLoads | The United States | 
 | OMJ Refined Products Prices | Oil Market Journal | European Refined Products Barge & FOB Prices |
 | Commodity3 Global Commodity Port Prices | Commodity3 | Global Port Prices for Commodities and Bunkers |
 | PanXchange Energy Pricess | PanXchange | US Hemp and Frac Sand Prices |
