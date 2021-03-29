@@ -13,8 +13,8 @@ The cmdty Pricing Network (CPN) is the leading contributor network for global ph
 | [EOX Live](https://www.barchart.com/cmdty/data/pricing-network/eoxlive) | Energy Pricing & Forwards  | Energy | [Docs & FAQs](/content/EOX)|
 | [Evolution Markets](https://www.barchart.com/cmdty/data/pricing-network/evolution-markets) | Environtmental & Renewable Producs | Energy, Environmental | Docs & FAQs - Coming Soon|
 | [Mercaris](https://www.barchart.com/cmdty/data/pricing-network/mercaris) | US Organic & non-GMO Grain Prices | Ag |[Docs & FAQs](/content/Mercaris)|
-| [Mintec](https://www.barchart.com/cmdty/data/pricing-network/mintec) | Benchmark Prices for Commodities | Food, Ag, Packaging | [Docs & FAQs](/docs/content/Mintec.md)|
-| [Oil Market Journal](https://www.barchart.com/cmdty/data/pricing-network/omj) | European Refined Fuel Barge & FOB Prices | Energy | [Docs & FAQs](/docs/content/OMJ.md)|
+| [Mintec](https://www.barchart.com/cmdty/data/pricing-network/mintec) | Benchmark Prices for Commodities | Food, Ag, Packaging | [Docs & FAQs](/content/Mintec)|
+| [Oil Market Journal](https://www.barchart.com/cmdty/data/pricing-network/omj) | European Refined Fuel Barge & FOB Prices | Energy | [Docs & FAQs](/content/OMJ)|
 | [PanXchange](https://www.barchart.com/cmdty/data/pricing-network/panxchange) | US Hemp and Frac Sand Prices | Ag, Energy | [Docs & FAQs](/docs/content/PanXchange.md)|
 | [Prima Markets](https://www.barchart.com/cmdty/data/pricing-network/prima-markets) |  Biofuels and Ethanol Prices | Ag, Energy, Environmental | Docs & FAQs - Coming Soon|
 | [SCB Group](https://www.barchart.com/cmdty/data/pricing-network/scb) | Biofuels and Ethanol Prices | Ag, Energy, Environmental | [Docs & FAQs](/content/SCB)|
