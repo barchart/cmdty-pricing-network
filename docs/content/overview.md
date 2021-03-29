@@ -33,7 +33,7 @@ Users can generally access the content through either software or an enterprise 
 
 In summary, you simply pay Barchart for use of our software and/or any technology fees associated with delivering of the data.  Any fees associated with the content of our CPN contributors are set by them.  By subscribing through us, you get to use the data in our purpose-built software products, and can use it alongside any other content that you get from Barchart - we basically simplify everything from user access through to billing.
 
-## Product Roadmap?
+## Product Roadmap
 We are always looking at onboarding datasets and providers that align with our clients.  If you are a contributor that would like to become a part of our distribution network, or if you're a client who would like to receive your data provider's content through our services please reach out to cmdty@barchart.com.
 
 
