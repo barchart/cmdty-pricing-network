@@ -1,23 +1,27 @@
-## Short Description
+# Overview
 
-cmdty Pricing Network by cmdty is the leading online store of global physical pricing. Through our contributors, we work to make the global Ag, Energy, Food, and Freight markets more transparent by providing assorted data to our users.
+## Description
 
-## Roadmap
-CPM...
+The cmdty Pricing Network (CPN) is the leading contributor network for global physical commodity prices.  Our price contributors rely on Barchart to distribute their content through our network of end-users, and our end-users rely on Barchart to access all of the data they need to power their mission critial trading and risk systems. 
 
-## What Datasets Are Included?
+## What's Included?
 
-|Dataset                 | Source                            | Data Coverage    | 
-| :---------------------: | :----------: | :----------: | 
-| Mercaris Organic & non-GMO Grain | Mercaris | US Organic & non-GMO Grain Prices and Imports | 
-| OMJ Refined Products Prices | Oil Market Journal | European Refined Products Barge & FOB Prices |
-| Commodity3 Global Commodity Port Prices | Commodity3 | Global Port Prices for Commodities and Bunkers |
-| PanXchange Energy Pricess | PanXchange | US Hemp and Frac Sand Prices |
-| SCB Alternative Energy Prices | SCB | US and European Biofuel and Ethanol Prices |
-| EOX Live Energy Forward Prices | EOX Live | Global Energy Forward Prices  |
-| Urner Barry Foood Prices | Urner Barry | Global Benchmark Prices for Food Commodities |
-| Mintec Commodity Prices | Mintec | Global Benchmark Prices for Commodities |
-| ClipperData Grain Transportation Data | ClipperData | Global Grains Water Flow Data |
+|Contributor                            | Description    | Asset Classes | Detailed Information |
+| :---------------------: | :----------: | :----------: | :----------: | 
+| [ClipperData](https://www.barchart.com/cmdty/data/pricing-network/clipperdata) | Global Grains Waterflow Data | Ag | [Docs & FAQs](/content/ClipperData) |
+| [Commodity3](https://www.barchart.com/cmdty/data/pricing-network/commodity3) | Global Export Prices for Commodities | Ag, Energy, Metals | [Docs & FAQs](/content/Commodity3) |
+| [EOX Live](https://www.barchart.com/cmdty/data/pricing-network/eoxlive) | Energy Pricing & Forwards  | Energy | [Docs & FAQs](/content/EOX)|
+| [Evolution Markets](https://www.barchart.com/cmdty/data/pricing-network/evolution-markets) | Environtmental & Renewable Producs | Energy, Environmental | Docs & FAQs - Coming Soon|
+| [Mercaris](https://www.barchart.com/cmdty/data/pricing-network/mercaris) | US Organic & non-GMO Grain Prices | Ag |[Docs & FAQs](/content/Mercaris)|
+| [Mintec](https://www.barchart.com/cmdty/data/pricing-network/mintec) | Benchmark Prices for Commodities | Food, Ag, Packaging | [Docs & FAQs](/docs/content/Mintec.md)|
+| [Oil Market Journal](https://www.barchart.com/cmdty/data/pricing-network/omj) | European Refined Fuel Barge & FOB Prices | Energy | [Docs & FAQs](/docs/content/OMJ.md)|
+| [PanXchange](https://www.barchart.com/cmdty/data/pricing-network/panxchange) | US Hemp and Frac Sand Prices | Ag, Energy | [Docs & FAQs](/docs/content/PanXchange.md)|
+| [Prima Markets](https://www.barchart.com/cmdty/data/pricing-network/prima-markets) |  Biofuels and Ethanol Prices | Ag, Energy, Environmental | Docs & FAQs - Coming Soon|
+| [SCB Group](https://www.barchart.com/cmdty/data/pricing-network/scb) | Biofuels and Ethanol Prices | Ag, Energy, Environmental | [Docs & FAQs](/content/SCB)|
+| [Scrap Monster](https://www.barchart.com/cmdty/data/pricing-network/scrap-monster) | North American Wholesale Scrap | Metals | Docs & FAQs - Coming Soon|
+| [Urner Barry](https://www.barchart.com/cmdty/data/pricing-network/urner-barry) | Benchmark Prices for Food Commodities | Food, Ag | [Docs & FAQs](/content/UrnerBarry)|
+
+
 
 
 ## How Can I Access Data?
