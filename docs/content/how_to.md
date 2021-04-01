@@ -1,11 +1,13 @@
 # How To
-In this section we provide you with practical examples of how you can interact with our data.  Should you have suggestions on what to included, please let us know.
+In this section we provide you with detials of how you can interact with our data.  Should you have suggestions on what to included, please let us know.
 
 ## Get Latest Prices in cmdtyView
 
 You can access all the CPN data in our platform [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview) using your web browser or mobile. Access the latest quotes, historical data and create visualization to analyze trends and generate insights. 
 
-![image](https://user-images.githubusercontent.com/56038171/113322970-fec85600-92da-11eb-8ab3-cd9e8ba020a0.png)
+* Get Started - Go to our [website](https://www.barchart.com/cmdty/trading/cmdtyview), click on the "Get Started" button to connect with our team and get access to cmdtyView
+* Creating Workspace - Explore how to [create a fully-customizable Workspace](https://www.barchart.com/cmdty/video/cmdtyview-creating-workspace) within cmdtyView.
+* Collaborate with your Team - Explore how to easily [share a Workspace](https://www.barchart.com/cmdty/video/cmdtyview-sharing-workspace) within cmdtyView to present you workspace and analysis to you team.
 
 ## Get data delivered in Excel
 
@@ -14,7 +16,6 @@ If Excel is your go to tool for analysis, we have got you covered. Get the data 
 * Download - [Click here to download](https://install.barchart.com/cmdty-excel/setup.exe) the cmdtyView Excel Add-in to get started.
 * Quick Start Guide - From installation through to getting your first quote live in Excel, our quick start guide will have you building amazing workbooks in no-time. Drop at line at real-time@barchart.com if you have any questions.
 * Template Gallery - Take a look at [our gallery of templates](https://barchartsolutions.atlassian.net/wiki/spaces/CUG/pages/393740347/Excel+Templates) for a multitude of use cases. Get started faster with pre-built tools that have been battle tested by our team of analysts and designed from the feedback of our users.
--- Add screenshot here
 
 
 ## Enterprise Solutions
@@ -118,5 +119,3 @@ http://ondemand.websol.barchart.com/getHistory.json?apikey=YOUR_API_KEY&symbol=M
 
 }
 ```
-    
-
