@@ -17,6 +17,9 @@ Our [website](https://www.barchart.com/cmdty/data/physical) lists all the datase
 #### Who do I contact for support issues?
 Please email mds@barchart.com and a ticket will be automatically generated to track your request.
 
+#### More information?
+For more information, contact us directly at cmdty@barchart.com. We’d be happy to answer any questions you may have.
+
 ## Data and Delivery
 
 #### How can I access the data?
