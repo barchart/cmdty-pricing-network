@@ -68,3 +68,7 @@ As an example, let's retrieve quotes for the symbols you are interested in:
   ]
 }
 ```
+
+## Explore More
+
+Congrats! You've made your first query. Feel free to check more details about our [onDemand](https://www.barchart.com/cmdty/data/ondemand) APIs. Here you can explore more advanced methods of querying CPN data.
