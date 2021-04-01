@@ -1,7 +1,7 @@
 # How To
 In this section we provide you with details of how you can interact with CPN data.  Should you have suggestions on what to include, please let us know.
 
-## Get Latest Prices in cmdtyView
+## Get latest data in cmdtyView
 
 You can access all the CPN data in our platform [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview) using your web browser or mobile. Access the latest quotes, historical data and create visualization to analyze trends and generate insights. 
 
