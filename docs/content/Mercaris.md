@@ -48,6 +48,6 @@ Yes, sample files can be made available via [contacting](https://www.barchart.co
 ### Where can I find collateral on how to understand this data?
 Mercaris [website](https://mercaris.com/) provides information on methodology, coverage, and use cases to help better understand the data.
 
-Is free trial available?
+### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
 
