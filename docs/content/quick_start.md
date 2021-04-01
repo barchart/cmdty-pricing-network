@@ -11,7 +11,7 @@ Once we have an understanding of what you're looking to do our team will be able
 
 ## Making Your First Query
 
-As an example, let's retrieve the quotes for the symbols you are interested in: 
+As an example, let's retrieve quotes for the symbols you are interested in: 
 * Open your favorite web browser
 * Enter you API key and symbols into the url template: http://ondemand.websol.barchart.com/getQuote.json?apikey=YOUR_API_KEY&symbols={SYMBOLS_INTERESTED_IN} 
 * Copy and paste the url into the browser, and hit enter
