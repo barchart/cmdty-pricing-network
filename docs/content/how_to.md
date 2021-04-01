@@ -19,14 +19,14 @@ If Excel is your go to tool for analysis, we have got you covered. Get the data 
 Get the commodity prices you need, when you need it - and delivered today. Our APIs for commodity data are fast, flexible, and available OnDemand.
 
 ### Get Quotes
-Get the latest data using our getQuotes API.
+Get the latest data using our [getQuote](https://www.barchart.com/ondemand/api/getQuote) API.
 
 http://ondemand.websol.barchart.com/getQuote.json?apikey=YOUR_API_KEY&symbols=MTC031V.CP,MTC031W.CP
 
 ![image](https://user-images.githubusercontent.com/56038171/113327023-0dfdd280-92e0-11eb-9941-447972ae6617.png)
 
 ### Get Historical Data
-Get the historical data using our getHistory API.
+Get the historical data using our [getHistory](https://www.barchart.com/ondemand/api/getHistory) API.
 
 http://ondemand.websol.barchart.com/getHistory.json?apikey=YOUR_API_KEY&symbol=MTC031V.CP&type=daily&startDate=20200101&endDate=20211201&order=desc
 
