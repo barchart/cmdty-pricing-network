@@ -1,7 +1,7 @@
 # Quick Start Guide
 
 ## Getting Started
-If you'd like to access the CPN data, please [visit our website](https://www.barchart.com/cmdty/data/pricing-network) and fill out the "Get Started" form. You can also send us an email at cmdty@barchart.com.  this section we provide you with practical examples of how you can interact with our data.  Should you have suggestions on what to included, please let us know. It's worth nothing that the more information you can provide us in the request will allow us to deliver a solution which best fits your needs.  Some information that would be helpful would include:
+If you'd like to access the CPN data, please [visit our website](https://www.barchart.com/cmdty/data/pricing-network) and fill out the "Get Started" form. You can also send us an email at cmdty@barchart.com. Should you have suggestions on what to included, please let us know. It's worth nothing that the more information you can provide us in the request will allow us to deliver a solution which best fits your needs. Some information that would be helpful would include:
 * Use Case - What are you looking to do with the information?
 * Data Access - Is your application public or only available to subscribers?  Can users download the data?
 * Historical Data - Do you require historical information or only current prices?
