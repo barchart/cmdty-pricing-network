@@ -1,5 +1,5 @@
 # How To
-In this section we provide you with detials of how you can interact with our data.  Should you have suggestions on what to included, please let us know.
+In this section we provide you with details of how you can interact with CPN data.  Should you have suggestions on what to included, please let us know.
 
 ## Get Latest Prices in cmdtyView
 
