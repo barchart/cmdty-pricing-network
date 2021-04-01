@@ -11,6 +11,9 @@ You can access all the CPN data in our platform [cmdtyView](https://www.barchart
 
 If Excel is your go to tool for analysis, we have got you covered. Get the data delivered directly into Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel) to take your research to next level.
 
+* Download - [Click here to download](https://install.barchart.com/cmdty-excel/setup.exe) the cmdtyView Excel Add-in to get started.
+* Quick Start Guide - From installation through to getting your first quote live in Excel, our quick start guide will have you building amazing workbooks in no-time. Drop at line at real-time@barchart.com if you have any questions.
+* Template Gallery - Take a look at [our gallery of templates](https://barchartsolutions.atlassian.net/wiki/spaces/CUG/pages/393740347/Excel+Templates) for a multitude of use cases. Get started faster with pre-built tools that have been battle tested by our team of analysts and designed from the feedback of our users.
 -- Add screenshot here
 
 
@@ -23,12 +26,97 @@ Get the latest data using our [getQuote](https://www.barchart.com/ondemand/api/g
 
 http://ondemand.websol.barchart.com/getQuote.json?apikey=YOUR_API_KEY&symbols=MTC031V.CP,MTC031W.CP
 
-![image](https://user-images.githubusercontent.com/56038171/113327023-0dfdd280-92e0-11eb-9941-447972ae6617.png)
-
+```
+{
+  "status": {
+    "code": 200,
+    "message": "Success."
+  },
+  "results": Array[2][
+    {
+      "symbol": "MTC031V.CP",
+      "name": "Beef cutout choice whs C US",
+      "dayCode": "1",
+      "serverTimestamp": "2021-04-01T11:51:08-05:00",
+      "mode": "i",
+      "lastPrice": 2.36,
+      "tradeTimestamp": "2021-04-01T00:30:17-05:00",
+      "netChange": 0,
+      "percentChange": 0,
+      "unitCode": "2",
+      "open": 2.36,
+      "high": 2.36,
+      "low": 2.36,
+      "close": null,
+      "numTrades": 1,
+      "dollarVolume": 0,
+      "flag": "",
+      "volume": 0,
+      "previousVolume": 0
+    },
+    {
+      "symbol": "MTC031W.CP",
+      "name": "Beef cutout select whs C US",
+      "dayCode": "1",
+      "serverTimestamp": "2021-04-01T13:22:57-05:00",
+      "mode": "i",
+      "lastPrice": 2.24,
+      "tradeTimestamp": "2021-04-01T00:30:17-05:00",
+      "netChange": 0,
+      "percentChange": 0,
+      "unitCode": "2",
+      "open": 2.24,
+      "high": 2.24,
+      "low": 2.24,
+      "close": null,
+      "numTrades": 1,
+      "dollarVolume": 0,
+      "flag": "",
+      "volume": 0,
+      "previousVolume": 0
+    }
+  ]
+}
+```
 ### Get Historical Data
 Get the historical data using our [getHistory](https://www.barchart.com/ondemand/api/getHistory) API.
 
 http://ondemand.websol.barchart.com/getHistory.json?apikey=YOUR_API_KEY&symbol=MTC031V.CP&type=daily&startDate=20200101&endDate=20211201&order=desc
 
-![image](https://user-images.githubusercontent.com/56038171/113327475-9ed4ae00-92e0-11eb-859c-b4f5bfd775d1.png)
+```
+{
+  "status": {
+    "code": 200,
+    "message": "Success."
+  },
+  "results": Array[325][
+    {
+      "symbol": "MTC031V.CP",
+      "timestamp": "2021-04-01T00:00:00-04:00",
+      "tradingDay": "2021-04-01",
+      "open": 2.37,
+      "high": 2.37,
+      "low": 2.37,
+      "close": 2.37,
+      "volume": 0,
+      "openInterest": null
+    },
+    {
+      "symbol": "MTC031V.CP",
+      "timestamp": "2021-03-30T00:00:00-04:00",
+      "tradingDay": "2021-03-30",
+      "open": 2.37,
+      "high": 2.37,
+      "low": 2.37,
+      "close": 2.37,
+      "volume": 0,
+      "openInterest": null
+    },
+    .
+    .
+    .
+
+}
+```
+    
 
