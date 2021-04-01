@@ -12,7 +12,7 @@ The cmdty Pricing Network (CPN) is the leading contributor network for global ph
 Various global Ag, Energy, Food and Freight companies are part of CPN. Please visit the [contributors section](/content/contributors) to see the current CPN memebers.
 
 #### What does you coverage look like?
-Our [website](https://www.barchart.com/cmdty/data/physical) lists all the datasets and reports available via CPN.
+All the datasets and reports available via CPN are listed [here](/content/contributors).
 
 #### Who do I contact for support issues?
 Please email mds@barchart.com and a ticket will be automatically generated to track your request.
