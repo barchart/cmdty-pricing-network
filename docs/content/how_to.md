@@ -7,7 +7,7 @@ You can access all the CPN data in our platform [cmdtyView](https://www.barchart
 
 * Get Started - Go to our [website](https://www.barchart.com/cmdty/trading/cmdtyview), click on the "Get Started" button to connect with our team and get access to cmdtyView
 * Creating Workspace - Explore how to [create a fully-customizable Workspace](https://www.barchart.com/cmdty/video/cmdtyview-creating-workspace) within cmdtyView.
-* Collaborate with your Team - Explore how to easily [share a Workspace](https://www.barchart.com/cmdty/video/cmdtyview-sharing-workspace) within cmdtyView to present you workspace and analysis to you team.
+* Collaborate with your Team - Explore how to easily [share a Workspace](https://www.barchart.com/cmdty/video/cmdtyview-sharing-workspace) within cmdtyView to present your workspace and analysis to you team.
 
 ## Get data delivered in Excel
 
