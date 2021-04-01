@@ -15,7 +15,7 @@ As an example, let's retrieve quotes for the symbols you are interested in:
 * Open your favorite web browser
 * Enter you API key and symbols into the url template: http://ondemand.websol.barchart.com/getQuote.json?apikey=YOUR_API_KEY&symbols={SYMBOLS_INTERESTED_IN} 
 * Copy and paste the url into the browser, and hit enter
-* Voila! The API will returned qualified grain bids to your browser, similar to below:
+* Voila! The API will return latest data for the symbols to your browser, similar to below:
 ```
 {
   "status": {
