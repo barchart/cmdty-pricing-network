@@ -11,7 +11,7 @@ You can access all the CPN data in our platform [cmdtyView](https://www.barchart
 
 ## Get data delivered in Excel
 
-If Excel is your go to tool for analysis, we have got you covered. Get the data delivered directly into Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel) to take your research to next level.
+If Excel is your go to tool for analysis, we have got you covered. Get the data delivered directly into Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel) to take your research to the next level.
 
 * Download - [Click here to download](https://install.barchart.com/cmdty-excel/setup.exe) the cmdtyView Excel Add-in to get started.
 * Quick Start Guide - From installation through to getting your first quote live in Excel, our quick start guide will have you building amazing workbooks in no-time. Drop at line at real-time@barchart.com if you have any questions.
