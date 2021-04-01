@@ -1,4 +1,4 @@
-# FAQ
+# FAQs
 This page contains information about our general FAQs as it relates to the CPN or how data can be retrieved. If you have an idea for something we should add to this section, let us know by sending an email to cmdty@barchart.com
 
 For information more specific to any individual data contributor [please take a look here](/content/contributors)
