@@ -25,7 +25,7 @@ For more information, contact us directly at cmdty@barchart.com. We’d be happy
 #### How can I access the data?
 Data can be accessed via
 * [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview)
-* Excel via c[mdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel)
+* Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel)
 * [Enterprise distribution](https://www.barchart.com/cmdty/contact) via API
 * [File delivery](https://www.barchart.com/cmdty/contact) over FTP/SFTP
 
