@@ -24,24 +24,24 @@ Evolution Markets was founded in 2000 by seasoned commodity brokers, who were ar
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/evolution-markets)
 * Docs & FAQs - Coming Soon
 
-## Mercaris
+## [Mercaris](/content/Mercaris)
 Mercaris is the leader in organic and non-GMO grain pricing for North America.  They provide up-to-date, accurate information on market conditions for organic and non-GMO commodities, and the Mercaris trading platform allows buyers and sellers to meet on-line and trade physical commodities.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/mercaris)
 * [Docs & FAQs](/content/Mercaris)
 * Resources - [Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/Mercaris/Mercaris_Overview.pdf), [Price Methodology](https://cmdty-cpn-resources.s3.amazonaws.com/Mercaris/Mercaris_Report_Methodology.pdf)
 
-## Mintec
+## [Mintec](/content/Mintec)
 Mintec is the world’s leading independent provider of global food pricing data and analysis.  Through their data Mintec is able to deliver increased price visibility, improved budget management & greater spend control to the world's largest brands, enabling them to implement more efficient & sustainable procurement strategies.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/mintec)
 * [Docs & FAQs](/content/Mintec)
 * Resources - [Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/Mintec/Mintec_Overview_2020.pdf)
 
-## Oil Market Journal
+## [Oil Market Journal](/content/OMJ)
 Oil Market Journal provides energy prices, fundamental data, news and analysis.  Their pricing for European refined fuel markets is recognized as a major contributor to global benchmarks.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/omj)
 * [Docs & FAQs](/content/OMJ)
 
-## PanXchange
+## [PanXchange](/content/PanXchange)
 PanXchange is the leading benchmark price provider in the US hemp industry and the defacto benchmark price provider in the 120 million ton specialty sand market for US oil and gas. 
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/panxchange)
 * [Docs & FAQs](content/PanXchange)
