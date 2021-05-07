@@ -22,7 +22,7 @@ For more information please visit https://www.prima-markets.com/
 Prima Markets datasets covers biofuel, low carbon fuels and feedstocks prices for renewable energy and environmental markets around the globe. For more information visit https://www.barchart.com/cmdty/data/pricing-network/prima-markets
 
 ### How is the data delivered?
-Prima Markets can be accessed via
+Prima Markets data can be accessed via
 * [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview)
 * Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel)
 * [Enterprise distribution](https://www.barchart.com/cmdty/contact) via API
