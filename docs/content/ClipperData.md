@@ -22,8 +22,6 @@ For more information please visit https://clipperdata.com/
 * [ClipperData Global Soybeans](https://www.barchart.com/solutions/data/market/CLP_SOY)
 * [ClipperData Global Wheat](https://www.barchart.com/solutions/data/market/CLP_WHEAT)
 
-
-
 ### What is the coverage?
 CLipperData datasets covers global sea vessel loading, offtake, and flow for major grains importing and exporting countries around the globe. For more information visit https://www.barchart.com/cmdty/data/pricing-network/clipperdata
 
@@ -44,11 +42,15 @@ The data is updated every weekday 15:00 pm CST.
 Yes, sample files can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
 
 ### How far back historically does each dataset go?
-* Mercaris Organic & non-GMO Grain Prices -  2015-01-01
-* Mercaris US Organic Grain Imports - 2012-01-01
+* ClipperData Global Corn - 2010-01-01
+* ClipperData Grain Inspection - 2020-03-19
+* ClipperData Global Grains - 2010-01-01
+* ClipperData Global Oilseeds - 2010-01-01
+* ClipperData Global Soybeans - 2010-01-01
+* ClipperData Global Wheat - 2010-01-01
 
 ### Where can I find collateral on how to understand this data?
-Mercaris [website](https://mercaris.com/) provides information on methodology, coverage, and use cases to help better understand the data.
+ClipperData [website](https://clipperdata.com/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
