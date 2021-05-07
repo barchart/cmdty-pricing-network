@@ -44,7 +44,7 @@ Yes, sample files can be made available via [contacting](https://www.barchart.co
 * Urner Barry Seafood Prices - 2016-06-01
 
 ### Where can I find collateral on how to understand this data?
-Urner Barry [website](https://www.urnerbarry.com/) provides information on methodology, coverage, and use cases to help better understand the data.
+Urner Barry's [website](https://www.urnerbarry.com/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
