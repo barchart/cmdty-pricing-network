@@ -11,7 +11,7 @@
 * Is free trial available?
 
 ### Who is EOX Live?
-The EOX Live provides timely, accurate and consistent data for usage in pre-trade intelligence, and mark-to-market valuation of global energy prices.
+EOXLive is the data distribution and price reporting arm of OTC Global Holdings - one of the largest physical brokerage houses in the world. Through this aggregated liquidity, EOXLive is able to deliver unparalleled insight, pre-trade and last-trade information and unmatched liquidity for OTC commodity markets. 
 For more information please visit https://www.eoxlive.com/
 
 ### What data does EOX Live offer via cmdty Pricing Network?
@@ -44,7 +44,7 @@ Yes, sample files can be made available via [contacting](https://www.barchart.co
 * EOX Refined Products Forward Curve - 2014-01-23
 
 ### Where can I find collateral on how to understand this data?
-EOX Live [website](https://www.eoxlive.com/) provides information on methodology, coverage, and use cases to help better understand the data.
+EOX Live's [website](https://www.eoxlive.com/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
