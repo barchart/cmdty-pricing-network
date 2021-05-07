@@ -1,25 +1,25 @@
 # Contributors
 Here we provide an overview of each contributor we have in the CPN.  
 
-## ClipperData
+## [ClipperData](/content/ClippeData)
 ClipperData is the leader in waterborne vessel tracking and load analysis.  Beginning with a database of global cargoes of crude oil and refined products, ClipperData’s market coverage has grown to include liquefied gases, lubricants, grains, container ships and petrochemicals. 
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/clipperdata)
 * [Docs & FAQs](/content/ClipperData)
 * Resources - [Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/ClipperData/ClipperData_Grains_Overview.pdf)
 
-## Commodity3
+## [Commodity3](/content/C3)
 Commodity3 is a leading aggregator of physical commodity prices accross the globe.  Their pricing is used by price reporting firms and various physical commodity trading houses to establish and manage pricing benchmarks.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/commodity3)
 * [Docs & FAQs](/content/C3)
 
-## EOX Live
+## [EOX Live](/content/EOX)
 EOXLive is the data distribution and price reporting arm of OTC Global Holdings - one of the largest physical brokerage houses in the world. Through this aggregated liquidity, EOXLive is able to deliver unparalleled insight, pre-trade and last-trade information and unmatched liquidity for OTC commodity markets. 
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/eoxlive)
 * [Docs & FAQs](/content/EOXLive)
 * Resources - [Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/EOX/EOX_Live_Market_Data_Offering.pdf)
 
 
-## Evolution Markets
+## [Evolution Markets](/content/EvolutionMarkets)
 Evolution Markets was founded in 2000 by seasoned commodity brokers, who were are the forefront of carbon, renewable energy, and other environmental markets. The principals still run the firm – and broker on the phones – backed by an experienced executive team. Overtime, Evolution Markets has grown into a leader in global commodity markets poised for continued growth.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/evolution-markets)
 * [Docs & FAQs](/content/EvolutionMarkets)
@@ -48,23 +48,23 @@ PanXchange is the leading benchmark price provider in the US hemp industry and t
 * Resources - [Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/PanXchange/PanXchange_Overview.pdf)
 
 
-## Prima Markets
+## [Prima Markets](/content/PrimaMarkets)
 Prima Markets is a leading research company for the low carbon fuels market, specialising in renewable diesel, biodiesel, ethanol & feedstocks. Prima Markets covers policy, capacity, mandates and fuels compliance tickets.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/prima-markets)
 * [Docs & FAQs](/content/PrimaMarkets)
 
-## SCB Group
+## [SCB Group](/content/SCB)
 SCB is the world’s leading low carbon commodity brokerage firm and their prices are used as benchmarks throughout the physical commodity ecosystem.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/scb)
 * [Docs & FAQs](/content/SCB)
 * Resources - [Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/SCB/SCB_Corporate_Profile_Portrait.pdf), [Price Methodology](https://cmdty-cpn-resources.s3.amazonaws.com/SCB/SCB_Methodology.pdf)
 
-## Scrap Monster
+## [Scrap Monster](/content/ScrapMonster)
 Scrap Monster provides accurate and updated recycling news, prices, and information to the industry.  Additionaly their services connect and byers and sellers across local, national and global scrap markets.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/scrap-monster)
 * [Docs & FAQs](/content/ScrapMonster)
 
-## Urner Barry
+## [Urner Barry](/content/UrnerBarry)
 Urner Barry is a business publisher specializing in the timely, accurate and unbiased reporting of market news and quotations to clients in the poultry, egg, meat, seafood and related segments of the food industry through a variety of print and non-print media.  They are the leading price reporter for global protein markets.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/urner-barry)
 * [Docs & FAQs](/content/UrnerBarry)
