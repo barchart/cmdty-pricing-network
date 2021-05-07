@@ -11,7 +11,7 @@
 * Is free trial available?
 
 ### Who is Evolution Markets?
-Evolution Markets is a leader in renewable energy offering intelligent data and analytics for energy and environmental commodity markets.
+Evolution Markets was founded in 2000 by seasoned commodity brokers, who were are the forefront of carbon, renewable energy, and other environmental markets. The principals still run the firm – and broker on the phones – backed by an experienced executive team. Overtime, Evolution Markets has grown into a leader in global commodity markets poised for continued growth.
 For more information please visit https://www.evomarkets.com/
 
 ### What data does Evolution Markets offer via cmdty Pricing Network?
@@ -25,7 +25,7 @@ For more information please visit https://www.evomarkets.com/
 Evolution Markets datasets cover Nuclear, RECs, Carbon, Coal and Emission prices for US renewable energy and environmental markets. For more information visit https://www.barchart.com/cmdty/data/pricing-network/evolution-markets
 
 ### How is the data delivered?
-Evolution Markets can be accessed via
+Evolution Markets data can be accessed via
 * [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview)
 * Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel)
 * [Enterprise distribution](https://www.barchart.com/cmdty/contact) via API
@@ -48,7 +48,7 @@ Yes, sample files can be made available via [contacting](https://www.barchart.co
 * Evolution Markets USA Emission Prices - 2019-01-04
 
 ### Where can I find collateral on how to understand this data?
-Evolution Markets [website](https://www.evomarkets.com/) provides information on methodology, coverage, and use cases to help better understand the data.
+Evolution Markets' [website](https://www.evomarkets.com/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
