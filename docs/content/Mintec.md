@@ -1,7 +1,6 @@
 ## CPN Mintec Data FAQ
 * Who is Mintec?
 * What data does Mintec offer via cmdty Pricing Network?
-* Are there risks in using the data?
 * What is the coverage?
 * How is the data delivered?
 * What is the frequency of the data?
@@ -21,9 +20,6 @@ Mintec is the trusted procurement partner for players in the food industry, data
 * [Mintec Food Ingredients Prices](https://www.barchart.com/solutions/data/market/MNT_INGRDNT)
 * [Mintec Packaging Prices](https://www.barchart.com/solutions/data/market/MNT_PCKG)
 * [Mintec Protein and Seafood Prices](https://www.barchart.com/solutions/data/market/MNT_PRO_SEA)
-
-### Are there risks in using the data?
-
 
 ### What is the coverage?
 Mintec data covers 14000+ food and packaging market prices, across 650 commodity types. Covering global prices for meat, seafood, poultry, grains, oilseeds, food ingredients commodities alongwith transportation, packaging and economic data. For more information visit www.barchart.com/cmdty/data/pricing-network/mintec
