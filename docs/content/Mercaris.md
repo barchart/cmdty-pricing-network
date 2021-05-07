@@ -1,7 +1,6 @@
 ## CPN Mercaris Data FAQ
 * Who is Mercaris?
 * What data does Mercaris offer via cmdty Pricing Network?
-* Are there risks in using the data?
 * What is the coverage?
 * How is the data delivered?
 * What is the frequency of the data?
@@ -18,9 +17,6 @@ GMO commodity prices, perform analytics and trade identity preserved commodities
 ### What data does Mercaris offer via cmdty Pricing Network?
 * [Mercaris Organic & non-GMO Grain Prices](https://www.barchart.com/solutions/data/market/MER_ORG_GRN)
 * [Mercaris US Organic Grain Imports](https://www.barchart.com/solutions/data/market/MER_ORG_IMP)
-
-### Are there risks in using the data?
-
 
 ### What is the coverage?
 Mercaris price data covers Organic and non-GMO prices for Corn, Soybeans, Wheat, and Barley commodities for different regions across the USA and Canada updated bi-weekly, monthly, and quarterly. Mercaris organic import dataset covers US Organic Grain Import information for major grain importing countries around the globe. For more information visit https://www.barchart.com/cmdty/data/pricing-network/mercaris
@@ -46,7 +42,7 @@ Yes, sample files can be made available via [contacting](https://www.barchart.co
 * Mercaris US Organic Grain Imports - 2012-01-01
 
 ### Where can I find collateral on how to understand this data?
-Mercaris [website](https://mercaris.com/) provides information on methodology, coverage, and use cases to help better understand the data.
+Mercaris's [website](https://mercaris.com/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
