@@ -1,7 +1,6 @@
 ## CPN PanXchange Data FAQ
 * Who is PanXchange?
 * What data does PanXchange offer via cmdty Pricing Network?
-* Are there risks in using the data?
 * What is the coverage?
 * How is the data delivered?
 * What is the frequency of the data?
@@ -17,9 +16,6 @@ PanXchange™ is the leading benchmark price provider in US Hemp and the defacto
 ### What data does PanXchange offer via cmdty Pricing Network?
 * [PanXchange Hemp Prices](https://www.barchart.com/solutions/data/market/PXC_HEMP)
 * [PanXchange Frac Sand Prices](https://www.barchart.com/solutions/data/market/PXC_SAND)
-
-### Are there risks in using the data?
-Need to confirm
 
 ### What is the coverage?
 PanXchange Frac Sand Prices provide eight frac sand indices providing insights into the important shale industry. PanXchange Hemp Prices cover 13 monthly pricing benchmarks leading price discovery in the fast-growing hemp market. For more information visit https://www.barchart.com/cmdty/data/pricing-network/panxchange
