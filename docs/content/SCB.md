@@ -14,7 +14,7 @@
 SCB is the world’s leading low carbon commodity company, with an exclusive pulse on market prices.
 For more information please visit https://starcb.com/
 
-### What data does ClipperData offer via cmdty Pricing Network?
+### What data does SCB offer via cmdty Pricing Network?
 * [SCB EU Biofuel Prices](https://www.barchart.com/solutions/data/market/SCB_BIOFUEL_EU)
 * [SCB US Biofuel Prices](https://www.barchart.com/solutions/data/market/SCB_BIOFUEL_US)
 * [SCB Weekly Commodity Prices](https://www.barchart.com/solutions/data/market/SCB_CPN_OTHERS)
