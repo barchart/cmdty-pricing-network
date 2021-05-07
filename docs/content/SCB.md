@@ -24,7 +24,7 @@ For more information please visit https://starcb.com/
 SCB datasets cover renewable energy prices for Europe and US Biofuel and Ethanol markets. For more information visit https://www.barchart.com/cmdty/data/pricing-network/scb
 
 ### How is the data delivered?
-SCB can be accessed via
+SCB data can be accessed via
 * [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview)
 * Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel)
 * [Enterprise distribution](https://www.barchart.com/cmdty/contact) via API
