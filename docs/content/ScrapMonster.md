@@ -22,7 +22,7 @@ For more information please visit https://www.scrapmonster.com/
 Scrap Monster datasets cover wholesale scrap metal prices for US scap market. For more information visit https://www.barchart.com/cmdty/data/pricing-network/scrap-monster
 
 ### How is the data delivered?
-Scrap Monster can be accessed via
+Scrap Monster data can be accessed via
 * [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview)
 * Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel)
 * [Enterprise distribution](https://www.barchart.com/cmdty/contact) via API
