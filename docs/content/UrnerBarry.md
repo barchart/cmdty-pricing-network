@@ -14,7 +14,7 @@
 Urner Barry is the leader in price reporting for the poultry, egg, meat, and seafood segments of the food industry.
 For more information please visit https://www.urnerbarry.com/
 
-### What data does ClipperData offer via cmdty Pricing Network?
+### What data does Urner Barry offer via cmdty Pricing Network?
 * [Urner Barry Poultry and Egg Prices](https://www.barchart.com/solutions/data/market/UBY_POULTRY_EGG)
 * [Urner Barry Red Meat Prices](https://www.barchart.com/solutions/data/market/UBY_REDMEAT)
 * [Urner Barry Seafood Prices](https://www.barchart.com/solutions/data/market/UBY_SEAFOOD)
