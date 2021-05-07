@@ -1,7 +1,6 @@
 ## CPN Oil Market Journal Data FAQ
 * Who is the Oil Market Journal?
 * What data does Oil Market Journal offer via cmdty Pricing Network?
-* Are there risks in using the data?
 * What is the coverage?
 * How is the data delivered?
 * What is the frequency of the data?
@@ -19,9 +18,6 @@ The Oil Market Journal (OMJ) provides a wide range of oil market solutions inclu
 * [OMJ Mediterranean Cargo Prices](https://www.barchart.com/solutions/data/market/OMJ_MED_CAR)
 * [OMJ Rotterdam Barge FOB Prices](https://www.barchart.com/solutions/data/market/OMJ_RTD_BRG)
 * [OMJ NW Europe CIF & FOB Prices](https://www.barchart.com/solutions/data/market/OMJ_RTD_CAR)
-
-### Are there risks in using the data?
-Need to confirm.
 
 ### What is the coverage?
 The Oil Market Journal provides settlement and historical oil prices for the Rotterdam and Mediterranean markets. OMJ proprietary prices are available for a wide range of oil products including Jet Kero, Gas Oil, ULSD, Gasoline. For more information visit https://www.the-omj.com/section/oil-prices
