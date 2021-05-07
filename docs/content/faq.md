@@ -9,7 +9,7 @@ For information more specific to any individual data contributor [please take a 
 The cmdty Pricing Network (CPN) is the leading contributor network for global physical commodity prices. Our price contributors rely on Barchart to distribute their content through our network of end-users, and our end-users rely on Barchart to access all of the data they need to power their mission critial trading and risk systems.
 
 #### Which companies are members of CPN?
-Various global Ag, Energy, Food and Freight companies are part of CPN. Please visit the [contributors section](/content/contributors) to see the current CPN members.
+Various global leaders across Ag, Energy, Food and Freight industries are part of CPN. We continously add new handpicked contributors to our CPN ecosystem to provide users greater clarity of commodity pricing across the globe. Please visit the [contributors section](/content/contributors) to see the current CPN members.
 
 #### What does you coverage look like?
 All the datasets and reports available via CPN are listed [here](/content/contributors).
