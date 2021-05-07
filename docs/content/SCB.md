@@ -31,7 +31,7 @@ SCB can be accessed via
 * [File delivery](https://www.barchart.com/cmdty/contact) over FTP/SFTP
 
 ### What is the frequency of the data?
-The SCB is updated every weekday at 15:00 pm CST.
+The SCB data is updated every weekday at 15:00 pm CST.
 
 ### What time the latest data is made available?
 The data is updated every weekday 15:00 pm CST.
