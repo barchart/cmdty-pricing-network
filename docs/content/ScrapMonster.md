@@ -11,7 +11,7 @@
 * Is free trial available?
 
 ### Who is Scrap Monster?
-Scrap Monster is a leader in providing accurate and updated recycling news, prices, and information to the recycling industry. 
+Scrap Monster provides accurate and updated recycling news, prices, and information to the industry.  Additionaly their services connect and byers and sellers across local, national and global scrap markets.
 For more information please visit https://www.scrapmonster.com/
 
 ### What data does Scrap Monster offer via cmdty Pricing Network?
@@ -42,7 +42,7 @@ Yes, sample files can be made available via [contacting](https://www.barchart.co
 * Scrap Monster US Wholesale Scrap - 2012-03-27
 
 ### Where can I find collateral on how to understand this data?
-Scrap Monster [website](https://www.scrapmonster.com/) provides information on methodology, coverage, and use cases to help better understand the data.
+Scrap Monster's [website](https://www.scrapmonster.com/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
