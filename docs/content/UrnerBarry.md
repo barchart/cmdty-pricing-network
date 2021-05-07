@@ -11,7 +11,7 @@
 * Is free trial available?
 
 ### Who is Urner Barry?
-Urner Barry is the leader in price reporting for the poultry, egg, meat, and seafood segments of the food industry.
+Urner Barry is a business publisher specializing in the timely, accurate and unbiased reporting of market news and quotations to clients in the poultry, egg, meat, seafood and related segments of the food industry through a variety of print and non-print media.  They are the leading price reporter for global protein markets.
 For more information please visit https://www.urnerbarry.com/
 
 ### What data does Urner Barry offer via cmdty Pricing Network?
