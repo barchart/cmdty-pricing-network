@@ -11,7 +11,7 @@
 * Is free trial available?
 
 ### Who is ClipperData?
-ClipperData is a leader in providing agricultural professionals with access to a clear-cut view of global cargo trade flow patterns throughout the commodity market.
+ClipperData is the leader in waterborne vessel tracking and load analysis.  Beginning with a database of global cargoes of crude oil and refined products, ClipperData’s market coverage has grown to include liquefied gases, lubricants, grains, container ships and petrochemicals. 
 For more information please visit https://clipperdata.com/
 
 ### What data does ClipperData offer via cmdty Pricing Network?
@@ -26,7 +26,7 @@ For more information please visit https://clipperdata.com/
 CLipperData datasets covers global sea vessel loading, offtake, and flow for major grains importing and exporting countries around the globe. For more information visit https://www.barchart.com/cmdty/data/pricing-network/clipperdata
 
 ### How is the data delivered?
-ClipperData can be accessed via
+ClipperData data can be accessed via
 * [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview)
 * Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel)
 * [Enterprise distribution](https://www.barchart.com/cmdty/contact) via API
@@ -50,7 +50,7 @@ Yes, sample files can be made available via [contacting](https://www.barchart.co
 * ClipperData Global Wheat - 2010-01-01
 
 ### Where can I find collateral on how to understand this data?
-ClipperData [website](https://clipperdata.com/) provides information on methodology, coverage, and use cases to help better understand the data.
+ClipperData's [website](https://clipperdata.com/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
