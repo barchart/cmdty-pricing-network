@@ -60,7 +60,7 @@ SCB is the world’s leading low carbon commodity brokerage firm and their price
 * Resources - [Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/SCB/SCB_Corporate_Profile_Portrait.pdf), [Price Methodology](https://cmdty-cpn-resources.s3.amazonaws.com/SCB/SCB_Methodology.pdf)
 
 ## [Scrap Monster](/content/ScrapMonster)
-Scrap Monster provides accurate and updated recycling news, prices, and information to the industry.  Additionaly their services connect and byers and sellers across local, national and global scrap markets.
+Scrap Monster provides accurate and updated recycling news, prices, and information to the industry.  Additionally their services connect and byers and sellers across local, national and global scrap markets.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/scrap-monster)
 * [Docs & FAQs](/content/ScrapMonster)
 
