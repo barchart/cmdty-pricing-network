@@ -46,7 +46,7 @@ Yes, sample files can be made available via [contacting](https://www.barchart.co
 * SCB Ethanol Prices - 2020-04-27
 
 ### Where can I find collateral on how to understand this data?
-SCB [website](https://starcb.com/) provides information on methodology, coverage, and use cases to help better understand the data.
+SCB's [website](https://starcb.com/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
