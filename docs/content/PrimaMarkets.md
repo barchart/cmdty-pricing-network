@@ -11,7 +11,7 @@
 * Is free trial available?
 
 ### Who is Prima Markets?
-PRIMA Markets is a leading research company for the low carbon fuels market, specialising in renewable diesel, biodiesel, ethanol & feedstocks.
+Prima Markets is a leading research company for the low carbon fuels market, specialising in renewable diesel, biodiesel, ethanol & feedstocks. Prima Markets covers policy, capacity, mandates and fuels compliance tickets
 For more information please visit https://www.prima-markets.com/
 
 ### What data does Prima Markets offer via cmdty Pricing Network?
@@ -42,7 +42,7 @@ Yes, sample files can be made available via [contacting](https://www.barchart.co
 * Prima Markets Low Carbon Fuels and Feedstocks - 2014-11-12
 
 ### Where can I find collateral on how to understand this data?
-Prima Markets [website](https://www.prima-markets.com/) provides information on methodology, coverage, and use cases to help better understand the data.
+Prima Markets' [website](https://www.prima-markets.com/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
