@@ -23,7 +23,7 @@ For more information please visit https://clipperdata.com/
 * [ClipperData Global Wheat](https://www.barchart.com/solutions/data/market/CLP_WHEAT)
 
 ### What is the coverage?
-CLipperData datasets covers global sea vessel loading, offtake, and flow for major grains importing and exporting countries around the globe. For more information visit https://www.barchart.com/cmdty/data/pricing-network/clipperdata
+ClipperData datasets covers global sea vessel loading, offtake, and flow for major grains importing and exporting countries around the globe. For more information visit https://www.barchart.com/cmdty/data/pricing-network/clipperdata
 
 ### How is the data delivered?
 ClipperData data can be accessed via
