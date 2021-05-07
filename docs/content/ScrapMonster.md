@@ -11,7 +11,7 @@
 * Is free trial available?
 
 ### Who is Scrap Monster?
-Scrap Monster provides accurate and updated recycling news, prices, and information to the industry.  Additionaly their services connect and byers and sellers across local, national and global scrap markets.
+Scrap Monster provides accurate and updated recycling news, prices, and information to the industry.  Additionally their services connect and byers and sellers across local, national and global scrap markets.
 For more information please visit https://www.scrapmonster.com/
 
 ### What data does Scrap Monster offer via cmdty Pricing Network?
