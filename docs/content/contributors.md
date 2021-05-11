@@ -40,6 +40,7 @@ Mintec is the world’s leading independent provider of global food pricing data
 Oil Market Journal provides energy prices, fundamental data, news and analysis.  Their pricing for European refined fuel markets is recognized as a major contributor to global benchmarks.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/omj)
 * [Docs & FAQs](/content/OMJ)
+* Resources - [Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/OMJ/OMJ+Barchart+Brochure+2021+Email+Copy.pdf)
 
 ## [PanXchange](/content/PanXchange)
 PanXchange is the leading benchmark price provider in the US hemp industry and the defacto benchmark price provider in the 120 million ton specialty sand market for US oil and gas. 
@@ -63,8 +64,10 @@ SCB is the world’s leading low carbon commodity brokerage firm and their price
 Scrap Monster provides accurate and updated recycling news, prices, and information to the industry.  Additionally their services connect and byers and sellers across local, national and global scrap markets.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/scrap-monster)
 * [Docs & FAQs](/content/ScrapMonster)
+* Resources - [Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/ScrapMonster/ScrapMonster.pdf)
 
 ## [Urner Barry](/content/UrnerBarry)
 Urner Barry is a business publisher specializing in the timely, accurate and unbiased reporting of market news and quotations to clients in the poultry, egg, meat, seafood and related segments of the food industry through a variety of print and non-print media.  They are the leading price reporter for global protein markets.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/urner-barry)
 * [Docs & FAQs](/content/UrnerBarry)
+* Resources - [Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/UnerBarry/Urner+Barry+Overview.pdf), [Price Methodology](https://cmdty-cpn-resources.s3.amazonaws.com/UnerBarry/Urner+Barry+Methodology.pdf)

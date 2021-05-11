@@ -6,20 +6,20 @@ The cmdty Pricing Network (CPN) is the leading contributor network for global ph
 
 ## What Data is Available?
 
-|Contributor                            | Description    | Asset Classes | Detailed Information |
-| :---------------------: | :----------: | :----------: | :----------: | 
-| [ClipperData](https://www.barchart.com/cmdty/data/pricing-network/clipperdata) | Global Grains Waterflow Data | Ag | [Docs & FAQs](content/ClipperData)|
-| [Commodity3](https://www.barchart.com/cmdty/data/pricing-network/commodity3) | Global Export Prices for Commodities | Ag, Energy, Metals | [Docs & FAQs](content/C3)|
-| [EOX Live](https://www.barchart.com/cmdty/data/pricing-network/eoxlive) | Energy Pricing & Forwards  | Energy | [Docs & FAQs](content/EOX)|
-| [Evolution Markets](https://www.barchart.com/cmdty/data/pricing-network/evolution-markets) | Environtmental & Renewable Producs | Energy, Environmental | [Docs & FAQs](content/EvolutionMarkets)|
-| [Mercaris](https://www.barchart.com/cmdty/data/pricing-network/mercaris) | US Organic & non-GMO Grain Prices | Ag |[Docs & FAQs](/content/Mercaris)|
-| [Mintec](https://www.barchart.com/cmdty/data/pricing-network/mintec) | Benchmark Prices for Commodities | Food, Ag, Packaging | [Docs & FAQs](/content/Mintec)|
-| [Oil Market Journal](https://www.barchart.com/cmdty/data/pricing-network/omj) | European Refined Fuel Barge & FOB Prices | Energy | [Docs & FAQs](/content/OMJ)|
-| [PanXchange](https://www.barchart.com/cmdty/data/pricing-network/panxchange) | US Hemp and Frac Sand Prices | Ag, Energy | [Docs & FAQs](content/PanXchange)|
-| [Prima Markets](https://www.barchart.com/cmdty/data/pricing-network/prima-markets) |  Biofuels and Ethanol Prices | Ag, Energy, Environmental | [Docs & FAQs](content/PrimaMarkets)|
-| [SCB Group](https://www.barchart.com/cmdty/data/pricing-network/scb) | Biofuels and Ethanol Prices | Ag, Energy, Environmental | [Docs & FAQs](content/SCB)|
-| [Scrap Monster](https://www.barchart.com/cmdty/data/pricing-network/scrap-monster) | North American Wholesale Scrap | Metals | [Docs & FAQs](content/ScrapMonster)|
-| [Urner Barry](https://www.barchart.com/cmdty/data/pricing-network/urner-barry) | Benchmark Prices for Food Commodities | Food, Ag | [Docs & FAQs](content/UrnerBarry)|
+|Contributor                            | Description    | Asset Classes | Detailed Information | Resources|
+| :---------------------: | :----------: | :----------: | :----------: | :----------: |
+| [ClipperData](https://www.barchart.com/cmdty/data/pricing-network/clipperdata) | Global Grains Waterflow Data | Ag | [Docs & FAQs](content/ClipperData)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/ClipperData/ClipperData_Grains_Overview.pdf)|
+| [Commodity3](https://www.barchart.com/cmdty/data/pricing-network/commodity3) | Global Export Prices for Commodities | Ag, Energy, Metals | [Docs & FAQs](content/C3)||
+| [EOX Live](https://www.barchart.com/cmdty/data/pricing-network/eoxlive) | Energy Pricing & Forwards  | Energy | [Docs & FAQs](content/EOX)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/EOX/EOX_Live_Market_Data_Offering.pdf)|
+| [Evolution Markets](https://www.barchart.com/cmdty/data/pricing-network/evolution-markets) | Environtmental & Renewable Producs | Energy, Environmental | [Docs & FAQs](content/EvolutionMarkets)||
+| [Mercaris](https://www.barchart.com/cmdty/data/pricing-network/mercaris) | US Organic & non-GMO Grain Prices | Ag |[Docs & FAQs](/content/Mercaris)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/Mercaris/Mercaris_Overview.pdf), [Price Methodology](https://cmdty-cpn-resources.s3.amazonaws.com/Mercaris/Mercaris_Report_Methodology.pdf)|
+| [Mintec](https://www.barchart.com/cmdty/data/pricing-network/mintec) | Benchmark Prices for Commodities | Ag, Food, Packaging | [Docs & FAQs](/content/Mintec)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/Mintec/Mintec_Overview_2020.pdf)|
+| [Oil Market Journal](https://www.barchart.com/cmdty/data/pricing-network/omj) | European Refined Fuel Barge & FOB Prices | Energy | [Docs & FAQs](/content/OMJ)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/OMJ/OMJ+Barchart+Brochure+2021+Email+Copy.pdf)|
+| [PanXchange](https://www.barchart.com/cmdty/data/pricing-network/panxchange) | US Hemp and Frac Sand Prices | Ag, Energy | [Docs & FAQs](content/PanXchange)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/PanXchange/PanXchange_Overview.pdf)|
+| [Prima Markets](https://www.barchart.com/cmdty/data/pricing-network/prima-markets) |  Biofuels and Ethanol Prices | Ag, Energy, Environmental | [Docs & FAQs](content/PrimaMarkets)||
+| [SCB Group](https://www.barchart.com/cmdty/data/pricing-network/scb) | Biofuels and Ethanol Prices | Ag, Energy, Environmental | [Docs & FAQs](content/SCB)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/SCB/SCB_Corporate_Profile_Portrait.pdf), [Price Methodology](https://cmdty-cpn-resources.s3.amazonaws.com/SCB/SCB_Methodology.pdf)|
+| [Scrap Monster](https://www.barchart.com/cmdty/data/pricing-network/scrap-monster) | North American Wholesale Scrap | Metals | [Docs & FAQs](content/ScrapMonster)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/ScrapMonster/ScrapMonster.pdf)|
+| [Urner Barry](https://www.barchart.com/cmdty/data/pricing-network/urner-barry) | Benchmark Prices for Food Commodities | Ag, Food | [Docs & FAQs](content/UrnerBarry)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/UnerBarry/Urner+Barry+Overview.pdf), [Price Methodology](https://cmdty-cpn-resources.s3.amazonaws.com/UnerBarry/Urner+Barry+Methodology.pdf)|
 
 ## How Can I Access It?
 
