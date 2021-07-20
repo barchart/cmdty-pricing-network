@@ -20,7 +20,9 @@ For more information please visit https://www.eoxlive.com/
 * [EOX Refined Products Forward Curve](https://www.barchart.com/solutions/data/market/EOX_REF_PRD)
 
 ### What is the coverage?
-EOX Live datasets cover energy prices for Global Crude Oil, Natural Gas and Refined Products market with upto 10 years ahead forward prices. For more information visit https://www.barchart.com/cmdty/data/pricing-network/eoxlive
+EOX Live datasets cover energy prices for Global Crude Oil, Natural Gas and Refined Products market with upto 10 years ahead forward prices. For more information visit https://www.barchart.com/cmdty/data/pricing-network/eoxlive.
+
+You can download the complete contract codes [here](https://cmdty-cpn-resources.s3.amazonaws.com/EOX/EOX_contract_code_mapping.csv), and the profile  [here](https://cmdty-cpn-resources.s3.amazonaws.com/EOX/EOX_profile.csv).
 
 ### How is the data delivered?
 EOX Live data can be accessed via
