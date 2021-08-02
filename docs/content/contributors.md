@@ -24,6 +24,11 @@ Evolution Markets was founded in 2000 by seasoned commodity brokers, who were ar
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/evolution-markets)
 * [Docs & FAQs](/content/EvolutionMarkets)
 
+## [Fastmarkets](/content/Fastmarkets)
+Fastmarkets has over 130 years of specialist commodity expertise and aims to be the world’s leading and most trusted data provider. With unmatched product breadth and geographic reach Fastmarkets work with those involved in the buying, selling and trading of commodities, to deliver truly market-reflective prices and insights to successfully enable global trade.
+* [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/fastmarkets)
+* [Docs & FAQs](/content/Fastmarkets)
+
 ## [Mercaris](/content/Mercaris)
 Mercaris is the leader in organic and non-GMO grain pricing for North America.  They provide up-to-date, accurate information on market conditions for organic and non-GMO commodities, and the Mercaris trading platform allows buyers and sellers to meet on-line and trade physical commodities.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/mercaris)
