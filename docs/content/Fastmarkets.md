@@ -28,7 +28,7 @@ For more information please visit https://www.fastmarkets.com/
 * [Jacobsen Vegetable Oils Prices](https://www.barchart.com/solutions/data/market/FSMK_JCB_VEGOIL)
 
 ### What is the coverage?
-Fastmarkets datasets cover global Agricultural, Energy and Environmental market prices. For more information visit https://www.barchart.com/cmdty/data/pricing-network/evolution-markets
+Fastmarkets datasets cover global Agricultural, Energy and Environmental market prices. For more information visit https://www.barchart.com/cmdty/data/pricing-network/fastmarkets
 
 ### How is the data delivered?
 Fastmarkets data can be accessed via
