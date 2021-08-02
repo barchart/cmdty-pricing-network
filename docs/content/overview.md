@@ -20,7 +20,7 @@ The cmdty Pricing Network (CPN) is the leading contributor network for global ph
 | [SCB Group](https://www.barchart.com/cmdty/data/pricing-network/scb) | Biofuels and Ethanol Prices | Ag, Energy, Environmental | [Docs & FAQs](content/SCB)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/SCB/SCB_Corporate_Profile_Portrait.pdf), [Price Methodology](https://cmdty-cpn-resources.s3.amazonaws.com/SCB/SCB_Methodology.pdf)|
 | [Scrap Monster](https://www.barchart.com/cmdty/data/pricing-network/scrap-monster) | North American Wholesale Scrap | Metals | [Docs & FAQs](content/ScrapMonster)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/ScrapMonster/ScrapMonster.pdf)|
 | [Urner Barry](https://www.barchart.com/cmdty/data/pricing-network/urner-barry) | Benchmark Prices for Food Commodities | Ag, Food | [Docs & FAQs](content/UrnerBarry)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/UnerBarry/Urner+Barry+Overview.pdf), [Price Methodology](https://cmdty-cpn-resources.s3.amazonaws.com/UnerBarry/Urner+Barry+Methodology.pdf)|
-| [Fastmarkets](https://www.barchart.com/cmdty/data/pricing-network/fastmarkets) | Benchmark Prices for Agricultural and Biofeuls Commodities | Ag, Food, Environmental, Energy | [Docs & FAQs](content/Fastmarkets)|[Corporate Overview](TBD), [Price Methodology](TBD)|
+| [Fastmarkets](https://www.barchart.com/cmdty/data/pricing-network/fastmarkets) | Global Agricultural and Biofuels Prices | Ag, Food, Environmental, Energy | [Docs & FAQs](content/Fastmarkets)|[Corporate Overview](TBD), [Price Methodology](TBD)|
 
 ## How Can I Access It?
 
