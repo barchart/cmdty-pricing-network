@@ -11,8 +11,8 @@
 * Is free trial available?
 
 ### Who is Fastmarkets?
-Evolution Markets was founded in 2000 by seasoned commodity brokers, who were are the forefront of carbon, renewable energy, and other environmental markets. The principals still run the firm – and broker on the phones – backed by an experienced executive team. Overtime, Evolution Markets has grown into a leader in global commodity markets poised for continued growth.
-For more information please visit https://www.evomarkets.com/
+Fastmarkets has over 130 years of specialist commodity expertise and aims to be the world’s leading and most trusted data provider. With unmatched product breadth and geographic reach Fastmarkets work with those involved in the buying, selling and trading of commodities, to deliver truly market-reflective prices and insights to successfully enable global trade.
+For more information please visit https://www.fastmarkets.com/
 
 ### What data does Fastmarkets offer via cmdty Pricing Network?
 * [Jacobsen Biodiesel Prices](https://www.barchart.com/solutions/data/market/FSMK_JCB_BIOFL)
