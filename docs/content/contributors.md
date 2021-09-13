@@ -71,6 +71,11 @@ Scrap Monster provides accurate and updated recycling news, prices, and informat
 * [Docs & FAQs](/content/ScrapMonster)
 * Resources - [Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/ScrapMonster/ScrapMonster.pdf)
 
+## [SovEcon](/content/SovEcon)
+SovEcon is a leading research firm focused on assessing stocks, consumption, crops and exports forecasting, and key price drivers of the Black Sea agricultural markets.
+* [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/sovecon)
+* [Docs & FAQs](/content/SovEcon)
+
 ## [Urner Barry](/content/UrnerBarry)
 Urner Barry is a business publisher specializing in the timely, accurate and unbiased reporting of market news and quotations to clients in the poultry, egg, meat, seafood and related segments of the food industry through a variety of print and non-print media.  They are the leading price reporter for global protein markets.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/urner-barry)
