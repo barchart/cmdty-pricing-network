@@ -17,7 +17,7 @@ With reliable and timely information, The Sizov Report by SovEcon helps funds, t
 For more information please visit https://sizov.report/
 
 ### What data does SovEcon offer via cmdty Pricing Network?
-* [SovEcon Weekly Russia Pricesl Prices](https://www.barchart.com/solutions/data/market/SOV_P_RUS)
+* [SovEcon Weekly Russia Prices](https://www.barchart.com/solutions/data/market/SOV_P_RUS)
 * [SovEcon Weekly Ukraine Prices](https://www.barchart.com/solutions/data/market/SOV_P_UKR)
 
 ### What is the coverage?
