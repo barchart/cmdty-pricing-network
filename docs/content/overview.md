@@ -22,6 +22,7 @@ The cmdty Pricing Network (CPN) is the leading contributor network for global ph
 | [Scrap Monster](https://www.barchart.com/cmdty/data/pricing-network/scrap-monster) | North American Wholesale Scrap | Metals | [Docs & FAQs](content/ScrapMonster)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/ScrapMonster/ScrapMonster.pdf)|
 | [SovEcon](https://www.barchart.com/cmdty/data/pricing-network/sovecon) | Black Sea Grain Prices | Ag | [Docs & FAQs](content/SovEcon)||
 | [Urner Barry](https://www.barchart.com/cmdty/data/pricing-network/urner-barry) | Benchmark Prices for Food Commodities | Ag, Food | [Docs & FAQs](content/UrnerBarry)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/UnerBarry/Urner+Barry+Overview.pdf), [Price Methodology](https://cmdty-cpn-resources.s3.amazonaws.com/UnerBarry/Urner+Barry+Methodology.pdf)|
+| [Link Data Services](https://www.barchart.com/cmdty/data/pricing-network/lds) | Benchmark Crude Oil Forward Prices | Energy | [Docs & FAQs](content/LinkData)|[Product Overview](https://cmdty-cpn-resources.s3.amazonaws.com/LinkData/Product+Description+Link.docx)|
 
 
 ## How Can I Access It?
