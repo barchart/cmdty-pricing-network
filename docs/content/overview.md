@@ -8,7 +8,6 @@ The cmdty Pricing Network (CPN) is the leading contributor network for global ph
 
 |Contributor                            | Description    | Asset Classes | Detailed Information | Resources|
 | :---------------------: | :----------: | :----------: | :----------: | :----------: |
-| [ClipperData](https://www.barchart.com/cmdty/data/pricing-network/clipperdata) | Global Grains Waterflow Data | Ag | [Docs & FAQs](content/ClipperData)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/ClipperData/ClipperData_Grains_Overview.pdf)|
 | [Commodity3](https://www.barchart.com/cmdty/data/pricing-network/commodity3) | Global Export Prices for Commodities | Ag, Energy, Metals | [Docs & FAQs](content/C3)||
 | [EOX Live](https://www.barchart.com/cmdty/data/pricing-network/eoxlive) | Energy Pricing & Forwards  | Energy | [Docs & FAQs](content/EOX)|[Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/EOX/EOX_Live_Market_Data_Offering.pdf), [Symbology](https://cmdty-cpn-resources.s3.amazonaws.com/EOX/EOX_Symbology.pdf)|
 | [Evolution Markets](https://www.barchart.com/cmdty/data/pricing-network/evolution-markets) | Environtmental & Renewable Producs | Energy, Environmental | [Docs & FAQs](content/EvolutionMarkets)||

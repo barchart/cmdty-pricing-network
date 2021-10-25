@@ -1,11 +1,6 @@
 # Contributors
 Here we provide an overview of each contributor we have in the CPN.  
 
-## [ClipperData](/content/ClippeData)
-ClipperData is the leader in waterborne vessel tracking and load analysis.  Beginning with a database of global cargoes of crude oil and refined products, ClipperData’s market coverage has grown to include liquefied gases, lubricants, grains, container ships and petrochemicals. 
-* [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/clipperdata)
-* [Docs & FAQs](/content/ClipperData)
-* Resources - [Corporate Overview](https://cmdty-cpn-resources.s3.amazonaws.com/ClipperData/ClipperData_Grains_Overview.pdf)
 
 ## [Commodity3](/content/C3)
 Commodity3 is a leading aggregator of physical commodity prices accross the globe.  Their pricing is used by price reporting firms and various physical commodity trading houses to establish and manage pricing benchmarks.
