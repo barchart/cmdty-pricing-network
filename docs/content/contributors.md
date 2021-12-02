@@ -24,6 +24,14 @@ Fastmarkets has over 130 years of specialist commodity expertise and aims to be 
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/fastmarkets)
 * [Docs & FAQs](/content/Fastmarkets)
 
+## [Freightos](/content/Freightos)
+Freightos is the world’s largest freight network allowing users to compare air, ocean and trucking freight quotes from 75+ providers.
+The Freightos Baltic Global Container Index™ ("FBX") is a set of indexes that reflect ocean
+container transport spot freight rates across 12 global tradelanes. It is jointly created by
+Freightos and the Baltic Exchange.
+* [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/freightos)
+* [Docs & FAQs](/content/Freightos)
+
 ## [Mercaris](/content/Mercaris)
 Mercaris is the leader in organic and non-GMO grain pricing for North America.  They provide up-to-date, accurate information on market conditions for organic and non-GMO commodities, and the Mercaris trading platform allows buyers and sellers to meet on-line and trade physical commodities.
 * [Product Page & Available Datasets](https://www.barchart.com/cmdty/data/pricing-network/mercaris)

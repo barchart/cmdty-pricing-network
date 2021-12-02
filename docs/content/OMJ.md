@@ -15,12 +15,13 @@ The Oil Market Journal (OMJ) provides a wide range of oil market solutions inclu
 
 
 ### What data does Oil Market Journal offer via cmdty Pricing Network?
-* [OMJ Mediterranean Cargo Prices](https://www.barchart.com/solutions/data/market/OMJ_MED_CAR)
-* [OMJ Rotterdam Barge FOB Prices](https://www.barchart.com/solutions/data/market/OMJ_RTD_BRG)
-* [OMJ NW Europe CIF & FOB Prices](https://www.barchart.com/solutions/data/market/OMJ_RTD_CAR)
+<!---  Need add link --->
+* OMJ UK Retail Pump Prices
+* OMJ European Retail Pump Prices
+* OMJ Wholesale Blended Road Fuel Prices
 
 ### What is the coverage?
-The Oil Market Journal provides settlement and historical oil prices for the Rotterdam and Mediterranean markets. OMJ proprietary prices are available for a wide range of oil products including Jet Kero, Gas Oil, ULSD, Gasoline. For more information visit https://www.the-omj.com/section/oil-prices
+The Oil Market Journal provides a wide range of European retail pump prices and wholesale prices for blended road fuels. For more information visit https://www.the-omj.com/section/oil-prices
 
 ### How is the data delivered?
 Oil Market Journal data can be accessed via
@@ -38,11 +39,14 @@ The latest data is updated every weekday 12:00 pm CST.
 ### Are sample files available?
 Yes, sample files can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
 
+
 ### How far back historically does each dataset go?
+Will be available soon.
+<!---  Need Change
 * OMJ Mediterranean Cargo Prices - 2018-10-23
 * OMJ Rotterdam Barge FOB Prices - 2018-10-23
 * OMJ NW Europe CIF & FOB Prices - 2018-10-23
-
+--->
 ### Where can I find collateral on how to understand this data?
 OMJ’s [website](https://www.the-omj.com/section/research-and-analysis) provides information on methodology, coverage, and use cases to help better understand the data.
 
